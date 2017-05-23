@@ -4,7 +4,7 @@ var {Link} = require('react-router');
 var About = (props) => {
 	return (
      <div>
-      <h1 className="text-centered">About</h1>
+      <h1 className="text-center">About</h1>
       <p>
       	First React app. Its crude and not great but it is a starting point 
       	 for me. Lets hope I can get better at all this CSS, HTML, and React stuff because as of right now I'm 
